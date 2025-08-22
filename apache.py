@@ -1,1 +1,1 @@
-prin("This is for testing notificaiton in jenkins")
+print("This is for testing notificaiton in jenkins")
